@@ -1,6 +1,11 @@
-<a href="https://github.com/roypeco">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=roypeco&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/roypeco">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypeco&layout=compact&theme=dracula" />
-</a>
+# Hi there, I'm roypeco!
+## profile
+Back‑end development web development — Web Engineer.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,python,fastapi,ts,next,aws,nginx,docker)](https://skillicons.dev)
+
+
+## Come on, me!
+[![GitHub Streak](https://streak-stats.demolab.com?user=roypeco&theme=dark&locale=ja)](https://git.io/streak-stats)
