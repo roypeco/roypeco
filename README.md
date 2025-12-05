@@ -1,5 +1,5 @@
 # Hi there, I'm roypeco!
-## profile
+## Profile
 Back‑end development web development — Web Engineer.
 
 ## Skills
